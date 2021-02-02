@@ -12,6 +12,8 @@ Run following command in main folder as well as client folder to install necessa
 npm install
 ```
 
+Change the .env file with the necessary keys required
+
 ## Usage
 For starting server,
 ```bash
