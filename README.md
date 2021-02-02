@@ -1,17 +1,26 @@
-# Contouring Words
+# Introduction
 
-Source Code for website made for Contouring Words, a small calligraphy and art seller.
+Source Code for website made for Contouring Words, a small calligraphy and art seller. 
 Built using MERN stack. 
 Still a Work in Progress :)
 
-# Installation guide
+## Installation
 
-# npm install 
+Run following command in main folder as well as client folder to install necessary dependencies.
 
-Run above command in main folder as well as client folder to install necessary dependencies.
+```bash
+npm install
+```
 
-In main folder, to start the server type command
-# npm run dev
-
-In client folder, to start client side, type command in the client folder,
-# npm start
+## Usage
+For starting server,
+```bash
+npm run dev
+```
+For running client,
+```bash
+cd client
+npm start
+```
+# Current Status
+Admin's creation/deletion of products (frontend and backend) needs to be done along with home component and footer.
